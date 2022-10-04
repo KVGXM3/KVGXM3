@@ -1,2 +1,5 @@
-yo sup, im KAG, c++ and python enjoyer, caffeine abuser and i constantly try and fail to design websites (or create any interesting project for that matter).
-nothing really interesting here so... idk.... however i hope u have beautiful day!!
+# About me
+
+ hey, im kv, I'm JS, Python and C++ developer.
+ I'm also blazingly mediocre at vim.
+ hope u have nice day <3
